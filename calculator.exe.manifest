@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+<assemblyIdentity
+    version="1.0.0.0"
+    processorArchitecture="*"
+    name="XPAsseblyCalculator"
+    type="win32"
+/>
+<description>Calculator made using Assembly x86-64.</description>
+<dependency>
+    <dependentAssembly>
+        <assemblyIdentity
+            type="win32"
+            name="Microsoft.Windows.Common-Controls"
+            version="1.5.7.1"
+            processorArchitecture="*"
+            publicKeyToken="6595b64144ccf1df"
+            language="en-US"
+        />
+    </dependentAssembly>
+</dependency>
+</assembly>
