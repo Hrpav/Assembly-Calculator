@@ -1,7 +1,7 @@
 # Calculator made in x64-86 Assembly.
 
 ## Screenshot
-[screenshot]
+![screenshot](https://github.com/Hrpav/Assembly-Calculator/blob/main/screenshot.jpg)
 
 ## Features
 ### Operators
