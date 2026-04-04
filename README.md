@@ -5,12 +5,11 @@
 
 ## Features
 ### Operators
-- Division (/)
-- Multiplication (*)
-- Subtraction (-)
-- Addition (+)
-- Decimal (.)
-- All of the numbers
+- Division (`/`)
+- Multiplication (`*`)
+- Subtraction (`-`)
+- Addition (`+`)
+- Decimal (`.`)
 ### Sounds
 - Plays `sounds/ding.wav` when press a button.
 - Plays `sounds/err.wav` when there is an error, for example dividing by 0.
